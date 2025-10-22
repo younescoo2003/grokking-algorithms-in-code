@@ -1,0 +1,18 @@
+# Algorithms Illustrated
+
+A hands-on implementation of algorithms from **"Grokking Algorithms" by Aditya Bhargava**, plus additional classic algorithms.  
+Written for learning, teaching, and sharing. Contributions are welcome!
+
+## 📚 Algorithms Included
+
+- **Searching**: Binary Search, Linear Search
+- **Sorting**: Quicksort, Mergesort
+- **Graphs**: BFS, Dijkstra's Algorithm
+- **More**: [Add your own!]
+
+## ▶️ How to Run
+
+Each file is self-contained. Just run with Python:
+
+```bash
+python searching/binary_search.py
